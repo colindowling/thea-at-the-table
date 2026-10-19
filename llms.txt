@@ -1,0 +1,129 @@
+# THEA at the Table
+
+> THEA at the Table (formerly Theasty, est. 2017) is the food, travel and lifestyle site of Thea VanHerwaarden, a MasterChef Canada finalist (Top 2), recipe developer and Canadian food and lifestyle television expert. Tagline: "Everyday food, lived beautifully." Home cooking that is seasonal, approachable and elevated, plus restaurant reviews and press.
+
+Key facts:
+- Author: Thea VanHerwaarden, MasterChef Canada Top 2 finalist; her n'duja ricotta tortellini was featured on the menu at Jamie Oliver's Jamie's Italian.
+- Content: original tested recipes (pasta, braises, brunch, baking, drinks), restaurant and travel reviews, and press features.
+- Every recipe page includes structured ingredients, step-by-step method and schema.org Recipe markup.
+- Contact for partnerships and media: thea@theasty.com
+
+## Recipes
+- [Braised Short Rib and Mussels](https://theasty.com/braised-beef-with-mussels-using-canada-beef/): West Coast flavours mean seafood. But B.C. beef holds its own. I teamed up with Canada Beef to give surf and turf a West Coast spin: braised short rib and mussels.
+- [Beaver Tails](https://theasty.com/beaver-tail-recipe/): A Canadian staple, at least in my house. Craving something sweet? Try Beaver Tails.
+- [Eggs Benny Breakfast Pizza](https://theasty.com/eggs-benedict-breakfast-pizza-eggs-benny/): Eggs Benedict as a thin-crust pizza, with hollandaise and green onion. Pizza for breakfast, done properly.
+- [Crispy Skin Salmon with Mango Salsa](https://theasty.com/crispy-skin-salmon-with-mango-salsa/): Crispy skin salmon with mango, corn and black bean salsa. Ready in under 20 minutes and easy to scale.
+- [Théasty Beef Ramen](https://theasty.com/theasty-beef-ramen/): Rich spicy broth, tender steak, noodles and a boiled egg, with lime, cilantro and chili for a slight Thai twist.
+- [Thea’s Théasty Smashburgers](https://theasty.com/theasty-smashburgers/): Ultra crispy edges, no filler. My fan-favourite smashburgers, finally on the blog after many requests.
+- [Lazy Artisan Bread](https://theasty.com/lazy-artisan-bread/): Four ingredients, no knead, and crunchy outside, soft inside. Make it a day ahead.
+- [Maple Whiskey Fried Chicken with Cornmeal Pancakes and Herb-Chili Maple Syrup](https://theasty.com/maple-whiskey-buttermilk-fried-chicken-buttermilk-cornmeal-pancakes-with-herb-and-chili-maple-syrup/): My waffle maker broke, so: pancakes. A bottle of unopened Canadian maple whiskey went into the chicken marinade. Chicken and waffles, headed north, and now my favourite version.
+- [Braised Chili in Adobo Beef Tacos with Roasted Pineapple Salsa](https://theasty.com/braised-chili-in-adobo-beef-tacos-with-roasted-pineapple-salsa/): Braised adobo beef tacos made in the pressure cooker, with pineapple two ways. Dutch oven works too: about 3 hours at 350 F.
+- [Classic Cranberry Sauce with Balsamic Vinegar](https://theasty.com/classic-cranberry-sauce-with-balsamic-vinegar/): Classic homemade cranberry sauce, made with Giulia Lombardo of Just Giulia for holiday spreads.
+- [Pumpkin Spice Biscotti](https://theasty.com/pumpkin-spice-biscotti/): Pumpkin spice, dried cranberries and toasted hazelnuts in a biscotti made for dunking in your coffee.
+- [Stuffing Waffle Turkey Sandwich](https://theasty.com/stuffing-waffles/): The stuffing waffle people ask me about every year. Eat it with a fried egg, or as the bread in a turkey sandwich.
+- [Braised Short Rib Ragu](https://theasty.com/braised-short-rib-ragu/): Short rib ragu in one pot. Red wine, tomatoes and herbs, with fresh trofie made while it braises.
+- [Greek Kebabs with Tzatziki + Garlic Naan](https://theasty.com/greek-kebabs/): Kebabs for a friend's birthday, with homemade tzatziki and garlic naan. Store-bought is fine too.
+- [Blackberry Sweet Rolls](https://theasty.com/blackberry-sweet-rolls/): Wild blackberries grow everywhere in late summer. I baked them into sticky buns with cinnamon.
+- [Théasty New York-Style Bagels](https://theasty.com/new-york-style-bagels/): New York-style bagels at home: chewier, bigger, and no harder than a loaf of bread, plus a boil.
+- [Street Corn Chicken Enchiladas](https://theasty.com/street-corn-chicken-enchiladas/): Street corn chicken enchiladas for weeknights: spiced chicken, green sauce, roasted corn and cheese. Store-bought shortcuts welcome.
+- [Peach and Burrata Pasta with Crispy Prosciutto](https://theasty.com/peaches-n-cream/): Pasta is my blank canvas, and peaches are the last of summer. Burrata instead of a cream sauce, plus sweet corn and crispy prosciutto.
+- [Pillow Soft Pretzels](https://theasty.com/pillow-soft-pretzels/): Soft pretzels were my childhood favourite. After trying many recipes, this is the one. Best eaten within a day.
+- [Simple Bruschetta](https://theasty.com/bruschetta/): Directions: Preheat oven to 400 degree Fahrenheit.  On a large baking sheet line the sliced baguette in rows and drizzle with olive oil.  Place in oven and allow to crisp up (approx. 5-8 minutes).…
+- [Chicken, Watermelon and Burrata Sandwich](https://theasty.com/chicken-watermelon-and-burrata-sandwich/): Half a watermelon needed using. Result: an open-faced sandwich with burrata and grilled chicken.
+- [Simple Crepes](https://theasty.com/simple-crepes/): The first recipe my mother taught me. Crepes are thin, rich, flexible, and I have never measured them.
+- [Simple Watermelon Salsa](https://theasty.com/watermelon-salsa/): Pico with a juicy twist. Watermelon salsa for tacos, BBQ chicken, breakfast or just chips. Hard to mess up.
+- [Spicy Goat Cheese + Sausage Rigatoni with Green Vegetables](https://theasty.com/sausage-rigatoni/): First use of my new pasta press: spicy sausage rigatoni with spring vegetables and goat cheese.
+- [Blood Orange Peach + Berry Dutch Babies](https://theasty.com/blood-orange-peach-berry-dutch-babies/): Leftover blood oranges, peaches and berries on Dutch babies with honey whipped ricotta. Brunch from the fridge.
+- [Blood Orange Jalapeno Margarita](https://theasty.com/blood-orange-jalapeno-margarita/): Spicy, on the rocks, and made with fresh blood orange instead of orange liqueur.
+- [Brioche Buns](https://theasty.com/brioche-buns/): Fluffy, golden brioche buns for burger season, and they stay fluffy instead of going stale overnight.
+- [Steak & Watermelon Tacos](https://theasty.com/steak-watermelon-tacos/): *you can use any type of steak for the recipe, I prefer tenderloin or marinated flank steak (seen above).  Directions: For the Steak Add garlic, chili powder, olive oil, lime juice and cilantro in a…
+- [Italian Eggs in Purgatory](https://theasty.com/italian-eggs-in-purgatory/): Eggs cooked in spicy tomato sauce, with Italian sausage, garlic and chili flakes, served on garlic-rubbed sourdough.
+- [Creamy Chicken Marsala](https://theasty.com/creamy-chicken-marsala/): Smells like it cooked for hours, takes one pan and half an hour. A play on a classic Italian dish.
+- [Sweet Chili Corn Soup](https://theasty.com/sweet-chili-corn-soup/): Corn's natural sweetness, a hint of honey and a kick of chili. Throw it in a pot and blend. Basically.
+- [Beef Stroganoff](https://theasty.com/beef-stroganoff/): Every week for years, I ordered the beef Stroganoff at the French restaurant where my parents took us and the chefs let us brûlée our own desserts. The restaurant is gone. The Stroganoff isn't.
+- [Sheet Pan Steak Tacos](https://theasty.com/sheet-pan-steak-tacos/): If I could eat one thing for the rest of my life, it would be tacos. This sheet pan version is easy and quick.
+- [Southwestern Salad in a Jar](https://theasty.com/southwestern-salad-in-a-jar/): A grab-and-go Southwestern salad in a jar. Oven chicken, lime juice, and it keeps for 4 to 6 days.
+- [Energy Balls](https://theasty.com/energy-balls/): It is 3 o'clock, you want something sweet and salty, and a handful of nuts will not cut it. These take ten minutes and keep me away from the newsstand chocolate bars.
+- [Breakfast Burritos To Go](https://theasty.com/breakfast-burritos-to-go/): Breakfast burritos that are easy to make and quick to grab on the way out the door.
+- [Pink Cacio e Pepe](https://theasty.com/pink-cacio-e-pepe/): A Valentine's dish for staying in: pink cacio e pepe in 15 minutes, with a sauce that is basically melted butter.
+- [Cheddar & Onion Cornbread](https://theasty.com/cheddar-onion-cornbread/): After dozens of failed attempts, a cornbread that holds together. Cheddar, green onion, cake flour and oil.
+- [The Best Meatless Chili](https://theasty.com/vegetarian-chili/): Vegetarian chili, with beans, and Gardein beefless ground that might fool your friends. Cheddar and onion cornbread on the side.
+- [Red Wine Braised Short Rib Pappardelle](https://theasty.com/red-wine-braised-short-rib-papardelle/): Red wine braised short ribs that fall off the bone, over fresh pappardelle with mushrooms.
+- [Sweet Chili Chicken Lettuce Wraps](https://theasty.com/sweet-chili-chicken-lettuce-wraps/): Tacos, lightened up. Lettuce wraps with sweet chili chicken: a little Asian inspiration on a Mexican base.
+- [Mexi Breakfast Bowl](https://theasty.com/mexi-breakfast-bowl/): Spicy Italian sausage, crispy potatoes, black beans, salsa and avocado, topped with poached eggs. Filling, and quick enough for a crowd.
+- [Green Vegetable Soup](https://theasty.com/green-vegetable-soup/): A green vegetable soup with a kick from poblano and jalapeno, freezer-friendly and simple to make.
+- [Truffle Mushroom & Spinach Pizza with Roasted Garlic](https://theasty.com/truffle-mushroom-spinach-pizza-with-roasted-garlic/): Thin crust, light mozzarella, spinach, mushrooms and roasted garlic. A January pizza with nothing to apologize for.
+- [Chili Chocolate Crinkle Cookies](https://theasty.com/chili-chocolate-crinkle-cookies/): Crinkle cookies that look like snow on mountain peaks, with soft chocolate inside and a hint of chili. Skip the spice if you must.
+- [Cheese-Stuffed Pasta Shells with Winter Vegetables](https://theasty.com/cheese-stuffed-pasta-shells-with-winter-vegetables/): Mac and cheese, winter edition: kale, broccoli, butternut squash and pancetta. Comforting, make-ahead, and sneaky enough to fool the harshest child critic. I added chili, because I put it in…
+- [Almond Biscotti](https://theasty.com/biscotti/): Crunchy, not tooth-chipping, and made for dunking. Biscotti are not hard, and the name tells you why: baked twice.
+- [Southwestern White Chicken Chili](https://theasty.com/southwestern-white-chicken-chili/): A sunny white bean chili with chunks of chicken instead of ground beef. The bean debate in our house continues.
+- [Butternut Squash Pasta, Brown Butter Sage Sauce](https://theasty.com/butternut-squash-pasta-brown-butter-sage-sauce/): Noodles made from butternut squash: one can of squash, some flour. Finished with sage brown butter.
+- [BC Summer Eats with Red Rooster Winery](https://theasty.com/bc-summer-eats-with-red-rooster-winery/): Recipes built on local, in-season B.C. produce, paired with Red Rooster Rare Bird Series 2017 Rose.
+- [White Chocolate Peanut Butter Cookies with Himalayan Sea Salt](https://theasty.com/salted-white-chocolate-peanut-butter-cookies/): Peanut butter cookies, kicked up with Himalayan sea salt and a white chocolate dip. Sweet, salty and super easy.
+- [Sweet & Spicy Chicken, Mango Salsa & Coconut Rice](https://theasty.com/sweet-spicy-chicken-mango-salsa-coconut-rice/): Sticky, sweet and spicy chicken with mango salsa and coconut rice. A lighter take on BBQ (or grilling, according to Texan).
+- [Vegetarian Taco Salad](https://theasty.com/vegetarian-taco-salad/): A vegetarian taco salad made with Gardein plant-based products.
+- [Mexican Street Corn](https://theasty.com/mexican-street-corn/): My all-time favourite snack. Inexpensive, quick, easy, and a good starter or party contribution.
+- [Taco Cookies](https://theasty.com/taco-cookies/): Tiny tacos made of cookies. The adults will talk, the kids will run wild on sugar, and they are easier to assemble than they look.
+- [Rosé Margaritas](https://theasty.com/rose-margaritas/): Two warm weather staples in one glass: a fun play on a classic margarita, made with Rosé.
+- [Fresh Tagliatelle with Tomatoes and Olive Oil](https://theasty.com/fresh-tagliatelle-with-tomatoes-and-olive-oil/): Fresh tagliatelle, tomatoes and olive oil. Quick, simple, and eaten straight out of the pan.
+- [Asparagus and Pea Soup](https://theasty.com/green-asparagus-pea-soup/): Big flavour in a tiny bowl. A green spring soup of peas and asparagus that even little ones will eat.
+- [Death by Chocolate Banana Muffins](https://theasty.com/death-by-chocolate-banana-muffins/): My mom's chocolate banana muffins made me the boss of recess snacks. Super easy, kid-approved, and I never wanted to trade.
+- [Black Trumpet Risotto](https://theasty.com/black-trumpet-risotto/): I don't like mushroom texture but love the flavour. Black trumpets, curious since Masterchef, finally get a risotto.
+- [Jalapeño Corn Gnocchi with Crispy Pancetta](https://theasty.com/jalapeno-corn-gnocchi-crispy-panchetta/): Jalapeno corn gnocchi with crispy pancetta: Mexican and Italian, my two favourite cuisines, on one plate.
+- [Huevos Breakfast Pizza](https://theasty.com/huevos-breakfast-pizza/): A hangover cure that can feed an army: breakfast pizza for the morning after New Year's Eve.
+- [Gingerbread Bundt Cake](https://theasty.com/gingerbread-bundt-cake/): Gingerbread, plain and warm from the oven. This bundt stays moist for days and freezes well.
+- [Gourmet Rig n’ Cheese](https://theasty.com/gourmet-rig-n-cheese/): Mac and cheese with large rigatoni, and a smart way to use up the cheese before it goes bad. Easy, and made for a cold night.
+- [Mexican Hot Chocolate Cookies](https://theasty.com/mexican-hot-chocolate-cookies/): Chocolate, chili and sea salt in a cookie. Soft, gooey, with spice that warms the back of your throat.
+- [Black Pumpkin Ravioli, Brown Butter Sage Sauce](https://theasty.com/black-pumpkin-ravioli/): Black pumpkin ravioli with brown butter sage sauce: a classic with a dark twist, colored with squid ink or food coloring.
+- [Spiced Apple & Pumpkin Soup](https://theasty.com/spiced-apple-pumpkin-soup/): Pumpkin and B.C. apples in one pot. It freezes well, goes vegan easily, and leftovers turn into a pasta sauce.
+- [4 Fun Thanksgiving Leftover Recipes](https://theasty.com/4-fun-thanksgiving-leftover-recipes/): Too much turkey, stuffing and cranberry sauce? Start with a stuffing waffle turkey sandwich, ready in under 5 minutes.
+- [Huevos Rancheros](https://theasty.com/huevos-rancheros/): Some people have a hard-boiled egg and toast. I have huevos rancheros, because there is always leftover Mexican food in my fridge. (Written straight after the gym, and I'm still salivating.)
+- [Vegetarian Ramen](https://theasty.com/vegetarian-ramen/): I never tried ramen until this year. Now I want it daily. A meat-free bowl, ready in under 30 minutes.
+- [Chocolate Blueberry Seed Muffins](https://theasty.com/chocolate-blueberry-seed-muffins/): Eggs, milk and half a container of blueberries. Muffins in 30 minutes, and the world's your muffin.
+- [Veg-orizo Tortellini with Broccolini and Tomato Broth](https://theasty.com/veg-tortellini/): A vegetarian riff on chorizo and ricotta tortellini, with broccolini and tomato broth. You may second guess that it's meatless.
+- [Spicy Peanut Buddha Bowl](https://theasty.com/buddha-bowl/): A spicy peanut Buddha bowl, packed with protein, fridge-friendly and good for leftovers. Inspired by my friend Jaimee.
+- [Sriracha Lime Cauliflower Tostadas](https://theasty.com/cauliflower-tostadas/): This recipe will knock your socks off with flavor that you’ll forget it’s vegetarian! Directions: Preheat oven to 425 degrees F For the Mango Salsa Add the diced mango, tomato, lime juice, red onion,…
+- [Spicy Summer Tagliatelle](https://theasty.com/easy-spicy-summer-tagliatelle/): Chorizo, broccoli rabe, lemon and peas with fresh tagliatelle, made from a nearly empty fridge and a freezer find.
+- [Lemon Poppy Seed Pancakes](https://theasty.com/lemon-poppy-seed-pancakes/): Directions: In a medium mixing bowl add flour, sugar, baking powder, salt, poppy seed and lemon zest; mix lightly.  Add milk, egg, and melted butter.   Mix batter until incorporated but don’t over…
+- [Simple Bruschetta](https://theasty.com/bruschetta/): Crisp baguette rubbed with garlic, topped with diced tomatoes and basil.
+- [Halibut with Mango Salsa and Jalapeño Corn Sauce](https://theasty.com/halibut-mango-salsa/): Halibut with golden skin, mango salsa, jalapeño corn sauce and a citrusy pea shoot salad. A lot happening on one plate, in the best way.
+- [Burger Sliders](https://theasty.com/burger-sliders/): This simple appetizer  is made easy by cooking the burger patty in a sheet pan before slicing into squares Directions: For the burger Sauce Mix mayonnaise, mustard and ketchup until incorporated.…
+- [Colorful Deviled Eggs](https://theasty.com/deviled-eggs/): Deviled eggs in a range of colours, with beets for the base shade. All the colour, none of the beet taste.
+- [Caesar Salad](https://theasty.com/caesar-salad/): Caesar salad with homemade croutons and mayo-free dressing. Same flavour, fewer calories.
+- [Rosé Sorbet](https://theasty.com/rose-sorbe/): Frosé is a dream but takes a lot of steps. Lime sorbet, Rosé and fresh thyme get you there faster.
+- [Pico de Gallo](https://theasty.com/pico-de-gallo2/): Delicious and easy to make. This Pico de Gallo can stay in your fridge as toppings throughout the week. Directions: Dice tomato into very small cubes and place into a medium bowl. Finely dice onion…
+- [Spanish Rice Salad](https://theasty.com/spanish-salad/): Citrus greens, salsa, Spanish rice, black beans and avocado, all in one salad. My Vancouver version of a favourite.
+- [Basic Pizza Dough](https://theasty.com/basic-pizza-dough/): A simple pizza dough to keep on hand. Double it for parties and vary the toppings.
+- [Burger Patties](https://theasty.com/homemade-burger-patties/): Directions Take all the ingredients above and mix it up! Yup. It’s that easy.   If the patties are too sticky, add some more bread crumbs. Once it’s well mixed, form balls and press them firmly…
+- [Pear, Burrata and Blackberry Pizza](https://theasty.com/pear-burrata-blackberry-pizza/): Béchamel, ricotta, shallots, pear and blackberries, finished with burrata and arugula. Don't mind the crispy dark bites. That's added crunch.
+- [Fresh Pasta Dough](https://theasty.com/fresh-pasta/): Half semolina, half flour. A chef told me pasta without semolina has no soul, and he was right. Here is my fresh pasta dough.
+
+## Travel
+- [5 Things You Didn’t Know About Neapolitan Pizza](https://theasty.com/5-things-you-didnt-know-about-neapolitan-pizza/): National Pizza Day, with Famoso Neapolitan Pizzeria: five things you didn't know about Neapolitan pizza.
+- [CinCin, Vancouver](https://theasty.com/cincin-vancouver/): On a busy shopping street in Downtown Vancouver lays a culinary gem.  Many people walk by the cobblestone staircase that leads to this gorgeous restaurant, without knowing it is actually there.…
+- [La Carnita, Toronto](https://theasty.com/la-carnita-toronto/): La Carnita | Toronto, Canada While travelling in Toronto, I ended up walking around looking for some grub. When I saw this small red brick building on John Street that seemed right up my alley.  As…
+- [Canoe, Toronto](https://theasty.com/canoe-toronto-dinner/): You won’t find a single local who doesn’t know about Canoe Restaurant in Toronto. Canoe is inspired by Canada’s raw and rich land through contemporary Canadian cuisine. Nestled on to the 54th floor…
+- [Burgoo, Vancouver](https://theasty.com/burgoo/): What’s not to say about delicious comfort food; Gooey Cheese, Warm homemade soups, Toasted breads, Pastas bound to give you a heart attack but SOOO worth every bite.  So when place called Burgoo came…
+- [Homer St. Cafe & Bar](https://theasty.com/homer-st-cafe-bar-brunch/): I LIVE for brunch…Food and Champagne to kick start your day isn’t the worst thing to do on a weekend right? So, when I realized I had nothing planned this morning, I eagerly jumped on the idea of…
+- [BarleyMash, San Diego](https://theasty.com/brunch-barleymash-san-diego/): Our first pit stop in San Diego is BarleyMash located in the heart of San Diego’s Gaslamp District. BarleyMash offers a fun, high energy environment that celebrates the richness of American culture…
+
+## People & press
+- [North Shore News – Ghost pepper bacon dip a crowd pleaser](https://theasty.com/north-shore-news-ghost-pepper-bacon-dip-crowd-pleaser/): (Originally published HERE) For Lower Lonsdale resident Thea VanHerwaarden a broken back became the catalyst for a cooking career that led her to appear on a number of major Canadian networks in the…
+- [Thea talked PC Holiday Insider Collection (Video)](https://theasty.com/thea-talked-pc-holiday-insider-collection-video/): 
+- [Thea featured in Insurance Business Magazine](https://theasty.com/thea-featured-insurance-business-magazine/): (Originally published HERE) From the MasterChef kitchen to the offices of Shaw Sabey & Associates – this Insurance Business Young Gun certainly knows how to keep her cool and tackle any difficult…
+- [Thea Featured in Insurance People Magazine](https://theasty.com/vanherwaarden-featured-insurance-people-mag/): Pleased to share that Thea Vanherwaarden was featured in a recent issue of Insurance People Magazine. The feature discusses both her profession as a high-net worth insurance broker and her journey on…
+- [Thea’s Famous Steak Tacos on CTV Morning LIVE](https://theasty.com/theas-famous-steak-tacos-ctv-morning-live/): Thea appeared on CTV Morning Live with Carrie Adams to show her famous steak tacos. Get the recipe here. Find the video here!
+- [Thea Maintains her Queen of Flavour Status](https://theasty.com/thea-maintains-her-queen-of-flavour-status/): Originally posted here Thea VanHerwaarden’s fierce optimism and flavourful talent got her into the top 2 of “MasterChef Canada,” her ricotta tortellini on the menu of Jamie Oliver’s restaurant…
+- [Fruit Adds Unique Flavour to Summer Pizza](https://theasty.com/fresh-fruit-adds-unique-flavour-to-summer-pizza-recipe/): Originally published here As of this week, Thea VanHerwaaden is still in the running for top spot on MasterChef Canada. The Deep Cove resident is one of three contestants left on the competition…
+- [Comox Cook in MasterChef Final Three](https://theasty.com/comox-cook-in-masterchef-final-three/): Originally published here Comox cook into MasterChef Canada semifinals Thea VanHerwaarden has faced a lot of adversity in reaching the final three Thea VanHerwaarden, of Comox, is a pressure test (or…
+- [Thea Appears on Bachelor On a Budget](https://theasty.com/thea-appears-on-bachelor-on-a-budget/): 
+- [Final Three Home Cooks Revealed on MASTERCHEF](https://theasty.com/the-final-three-home-cooks-are-revealed-on-masterchef-canada/): Originally posted here TORONTO, May 12, 2017 /CNW/ – Following the final Team Challenge and a daunting Pressure Test, MASTERCHEF CANADA judges Michael Bonacini, Alvin Leung, and Claudio Aprile…
+- [Deep Cove cook risking it all on MasterChef Canada](https://theasty.com/deep-cove-cook-risking-it-all-north-shore-news/): Thea Vanherwaarden competing on CTV’s culinary show   Originally published here Maria Spitale-Leisk / North Shore News MARCH 24, 2017 08:57 AM Thea VanHerwaarden can’t handle the heat in the kitchen…
+
+## About
+- [About Thea](https://theasty.com/about-thea/): Biography, television career and brand partners.
+- [Work with Thea](https://theasty.com/contact/): Brand partnerships, recipe development, television and events.
+
+## Optional
+- [Journal](https://theasty.com/blog/): Every post, newest first.
+- [Full text for LLMs](https://theasty.com/llms-full.txt)
